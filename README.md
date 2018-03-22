@@ -1,3 +1,3 @@
 # Tweeter_Bird
 C++ Coded Game 
-I Design This Game 1 by 1 screen You can see the game designs
+This Game is about A bird who has to Cross the huddles and has To do Keep flying 
