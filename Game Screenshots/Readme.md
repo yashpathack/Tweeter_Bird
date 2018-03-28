@@ -1,1 +1,1 @@
-This Folder Contains All The Screen shots of the game
+This Folder Contains the screenshots from the game
